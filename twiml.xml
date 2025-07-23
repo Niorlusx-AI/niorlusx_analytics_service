@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say>Thank you for calling Niorlusx AI service.</Say>
+    <Pause length="1"/>
+    <Say>Please hold while we connect your call.</Say>
+</Response>
